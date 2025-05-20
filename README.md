@@ -11,14 +11,19 @@
 
 ---
 
-## 🛠️ Projects & Tools I Love
+## 🛠️ Projects
 
 - 🔌 **PowerShards**: A Minecraft Plugin giving you powers.
 - 🌐 **Delta**: A DashBoard for Free Hosting providers.
-- 🧰 **Proxmox**: Withouth this my homelab would have been gone 😭
 
 ---
 
+
+---
+# ⚒️ Tools i love and use
+
+- 🧰 **Proxmox**: Withouth this my homelab would have been gone 😭
+---
 ## 📬 Get in Touch
 
 - 💻 Website: [eliasl.org](https://eliasl.org)
