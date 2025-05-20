@@ -1,6 +1,6 @@
 # Hi there, I'm Elias 👋
 
-I'm a teenage developer passionate about open-source software, automation, and creative coding projects. Whether I'm crafting tools like [404 Garden](https://github.com/yourusername/404-garden) or optimizing homelab workflows, I love bringing ideas to life through code.
+
 
 ---
 
